@@ -4,8 +4,6 @@
 
 I've just started so...
 
-Skills: HTML / CSS
-
 - 🌱 I’m currently learning HTML5/CSS3 
 
 

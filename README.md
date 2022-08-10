@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Kate
 #### I'm a front-end developer student
-![I'm a front-end developer student](https://eviars.github.io/images/banner.png)
+![I'm a front-end developer student](https://github.com/eviars/eviars/blob/main/banner.png)
 
 I've just started so...
 
